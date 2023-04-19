@@ -1,8 +1,6 @@
-![The Data & Cloud Research Group logotype.](https://dac.ds.unipi.gr/wp-content/uploads/2020/11/slice3.png)
+## Welcome to the Data & Cloud Research Group
 
-## Data & Cloud Research Group
-
-Welcome to the GitHub organization for the Data & Cloud Research Group, a part of the Network Systems & Services Laboratory at the University of Piraeus Research Center (UPRC).
+Welcome to the GitHub organization for the [Data & Cloud Research Group](http://dac.ds.unipi.gr), a part of the Network Systems & Services Laboratory at the University of Piraeus Research Center (UPRC).
 
 Our group is dedicated to conducting cutting-edge research in the fields of data and cloud computing. Through our work, we aim to advance knowledge and develop innovative tools and solutions that address key challenges and opportunities in these areas.
 
